@@ -23,6 +23,7 @@ export default createConfig({
       address: "0x37EA4C3fd77DBf4e796f86fC75bCde83567c846e",
       startBlock: 24360642,
     },
+    
   },
   database: {
     kind: "postgres",
